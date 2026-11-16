@@ -1,0 +1,8 @@
+torch
+lightkurve
+astropy
+scipy
+numpy
+pandas
+streamlit
+plotly
